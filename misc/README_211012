@@ -4,3 +4,4 @@ ex01-03.cc      Scrivere un programma che ritorni a video la somma di due numeri
 ex01-04.cc      Scrivere un programma che ritorni a video il risultato delle operazioni artimetiche (+, -, *, etc.) tra variabili di tipo diverso (e.g., float, int, etc.).
 ex01-05.cc      Scrivere un programma che, ricevuto in input dall’utente un valore di distanza in miglia, ritorni lo stesso valore convertito in chilometri.
 ex01-06.cc      Scrivere un programma che, data in input la lunghezza di una lato L, calcoli l’area e il perimetro di un esagono. Nota: per calcolare sqrt(3) = 1.73205, potete definire una variabile costante e assegnarle direttamente il valore. Volendo, si può anche utilizzare la funzione sqrt della libreria <cmath>;
+ex01-07.cc      Scrivere un programma che determini se il computer che state utilizzando lavora in Big Endian o Little Endian.
