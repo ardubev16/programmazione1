@@ -5,3 +5,13 @@ ex01-04.cc      Scrivere un programma che ritorni a video il risultato delle ope
 ex01-05.cc      Scrivere un programma che, ricevuto in input dall’utente un valore di distanza in miglia, ritorni lo stesso valore convertito in chilometri.
 ex01-06.cc      Scrivere un programma che, data in input la lunghezza di una lato L, calcoli l’area e il perimetro di un esagono. Nota: per calcolare sqrt(3) = 1.73205, potete definire una variabile costante e assegnarle direttamente il valore. Volendo, si può anche utilizzare la funzione sqrt della libreria <cmath>;
 ex01-07.cc      Scrivere un programma che determini se il computer che state utilizzando lavora in Big Endian o Little Endian.
+ex02-01.cc      Scrivere un programma che, dati in input tre valori dall’utente, riporti a video il maggiore di questi tre valori (interi, float, caratteri, etc,).
+ex02-02.cc      Scrivere un programma che, data una temperatura in input dall’utente, riporti a video un messaggio seguendo le regole sotto elencate.
+ex02-03.cc      Scrivere un programma che, dati in input i lati di un triangolo, ritorni a video se il triangolo è isoscele, equilatero o scaleno.
+ex02-04.cc      Scrivere un programma che, dato in input il valore numerico di un mese, ritorni a video il corrispondente nome di quel mese (e.g., 1-Gennaio, . . ., 12-Dicembre).
+ex03-01.cc      Scrivere un programma che, dato in input un valore N, ritorni a video il risultato della seguente serie geometrica, calcolata fino all’N -esimo termine.
+ex03-02.cc      Scrivere un programma che, dato in input un valore N, ritorni a video il risultato della seguente serie che approssima il valore di π.
+ex03-03.cc      Scrivere un programma che, dato in input il valore x e il valore N, calcoli l’espansione fino all’N-esimo termine della serie di Taylor calcolata per e^x
+ex03-04.cc      Scrivere un programma che, dato in input un numero intero N, ritorni a video la somma delle sue cifre. Ad esempio, dato in input il numero 13465, l’output del programma dovrà essere 19, poichè 1 + 3 + 4 + 6 + 5 = 19.
+ex03-05.cc      Scrivere un programma che, dato in input un numero intero N, ritorni a video la frequenza di ogni cifra (tra 0 e 9) contenuta nel numero.
+ex03-06.cc      Scrivere un programma che, dato un numero N, ritorni a video la scomposizione in fattori primi di questo numero. Ad esempio, dato in input il numero 22, il programma dovrà ritornare in output 2, 11.
