@@ -15,3 +15,4 @@ ex03-03.cc      Scrivere un programma che, dato in input il valore x e il valore
 ex03-04.cc      Scrivere un programma che, dato in input un numero intero N, ritorni a video la somma delle sue cifre. Ad esempio, dato in input il numero 13465, l’output del programma dovrà essere 19, poichè 1 + 3 + 4 + 6 + 5 = 19.
 ex03-05.cc      Scrivere un programma che, dato in input un numero intero N, ritorni a video la frequenza di ogni cifra (tra 0 e 9) contenuta nel numero.
 ex03-06.cc      Scrivere un programma che, dato un numero N, ritorni a video la scomposizione in fattori primi di questo numero. Ad esempio, dato in input il numero 22, il programma dovrà ritornare in output 2, 11.
+ex03-07.cc      Scrivere un programma che, dato in input un numero binario N, ritorni a video il complemento di questo numero binario. Ad esempio, dato in input il numero 110101, il programma dovrà dare in output il numero 001010.
