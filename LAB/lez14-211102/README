@@ -1,0 +1,5 @@
+Programmi:
+    ex01.cc     Inizializza random e stampa array con puntatori
+    ex02.cc     Inizializza matrice con valori random e stampa a video
+    ex03.cc     Inizializza matrice con valori random e calcolare trasposta
+    ex04.cc     Inizializza matrice con valori 0,1, torna numero di isole (1 circondato da 0)
