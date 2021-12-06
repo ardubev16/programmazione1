@@ -1,0 +1,5 @@
+Programmi:
+    ex01.cc     fattoriale con funzione ricorsiva
+    ex02.cc     calcola divisione con funzione ricorsiva
+    ex03.cc     dato un int in input, procedura stampa n in binario
+    ex04.cc     dato un int fare funzione ricorsiva che dice se n e' palindromo

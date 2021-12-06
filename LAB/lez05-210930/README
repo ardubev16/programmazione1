@@ -1,0 +1,7 @@
+Programmi:
+    ex01.cc     dati a, b, c calcolare le soluzioni di un'equazione di secondo grado del tipo ax^2+bx+c=0
+    ex02.cc     dati 3 numeri reali ritorna il minimo
+    ex03.cc     dati 3 numeri reali 
+    ex04.cc     dato un numero tra 1 e 7 stampare il giorno della settimana
+    ex05.cc     dato un carattere stampare se e' un carattere o consonante
+    ex06.cc     dati 2 numeri a e n (n>=1) stampare la successione di potenze da a^1 a a^n

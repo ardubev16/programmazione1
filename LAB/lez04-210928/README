@@ -1,0 +1,4 @@
+Programmi:
+    ex01.cc     Calcola la tabella di verita' dell'operatore "implicazione"
+    ex02.cc     Dati a e b, calcola il valore assoluto di a-b senza usare 'if' o 'abs'
+    ex03.cc     Dati a e b, determinare max e min senza funzioni o 'if'

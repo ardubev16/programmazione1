@@ -1,0 +1,5 @@
+Programmi:
+    ex01.cc     dato in input n intero, stampare la sequenza di fibonacci fino a Fn 
+    ex02.cc     calcola il risultato della serie da 1 a N di 1/i^2, N dato in input
+    ex03.cc     dato intero (0<n<1000) dire se e' primo
+    ex04.cc     genera numero casuale tra 1 e 10, chiedere il numero all'utente finche' non lo indovina

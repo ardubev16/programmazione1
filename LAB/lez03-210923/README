@@ -1,0 +1,12 @@
+Appunti:
+    cout.precision(n)       imposta quante cifre mostrare nella stream
+    cout << fixed           viene utilizzata l'impostazione settata
+    cout << defaultfloat    ripristina precisione iniziale
+
+Programmi:
+    ex01    dati due numeri reali, prezzo e iva, ritorna il prezzo con l'iva
+    ex02    dati 3 numeri reali, a,b,c, calcola la soluzione dell'equazione di secondo grado (assumendo delta > 0)
+    ex03    dato un carattere, scrivere un programma che restituisca la codifica del carattere +10    
+    ex04    dato un carattere minuscolo, riportare il carattere maiuscolo
+    ex05    date due variabili, a e b, scambiare il valore di a e b senza variabile temporanea
+

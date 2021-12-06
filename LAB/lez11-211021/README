@@ -1,0 +1,5 @@
+Programmi:
+    ex01.cc     dati due interi (base e esponente), calcola potenza (recursive)
+    ex02.cc     dati due interi, calcola MCD con funzione ricorsiva
+    ex03.cc     dati due caratteri, stampare a video caratteri compresi (procedura ricorsiva)
+    ex04.cc     scrivere procedura che fattorizzi in numeri primi con ricorsione

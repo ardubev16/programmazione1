@@ -1,0 +1,4 @@
+Programmi:
+    ex01.cc     dato un carattere, controllare con una FUNZIONE se e' minuscolo, se si stampa in maiuscolo con un'altra funzione
+    ex02.cc     uguale ad ex01, funzione di conversione VOID
+    ex03.cc     dato in input un numero, con una procedure stampare il numero invertito

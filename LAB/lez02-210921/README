@@ -1,0 +1,9 @@
+Appunti:
+    x++     post-incremento: prima ritorna il valore di x e poi la incrementa di 1
+    ++x     pre-incremento: prima incrementa il valore di x di 1 e poi la ritorna
+
+Programmi:
+    ex01    Data un'ora, ritorna i secondi passati da mezzanotte
+    ex02    Dati i secondi passati da mezzanotte, ritorna l'ora
+    ex03    Ritorna la tabella di verita' dell'operatore && e ||
+

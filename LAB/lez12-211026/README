@@ -1,0 +1,5 @@
+Programmi:
+    ex01.cc     dichiara e inizializza array di 10 int, stampa gli elementi
+    ex02.cc     inizializza con valori random 2 array, dice che elementi sono uguali nello stesso posto
+    ex03.cc     inizializza random array 10 int, calcola media, max, min
+    ex04.cc     init random 10 int, stampa, inverte array, stampa

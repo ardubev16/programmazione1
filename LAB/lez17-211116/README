@@ -1,0 +1,2 @@
+Programmi:
+    ex01.cc     struttura studente formata da nome, cognome, matricola, media; funzione stampa_studente, genera_studente

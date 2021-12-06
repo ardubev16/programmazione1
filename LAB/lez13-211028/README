@@ -1,0 +1,6 @@
+Programmi:
+    ex00.cc     Torre di Hanoi
+    ex01.cc     inizializza array da 10 int random (0-9), dato valore in input ritorna posizione
+    ex02.cc     Bubble sort
+    ex03.cc     ordina array, sostituisci duplicati con -1
+    ex04.cc     ricerca binaria ricorsiva

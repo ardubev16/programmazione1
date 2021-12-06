@@ -1,0 +1,4 @@
+Programmi:
+    ex01.cc     stampa valore ASCII di tutte le lettere minuscole e maiuscole
+    ex02.cc     stampa carattere corrispondente a ASCII compresi tra intervallo a,b definito da utente, controllare intervallo inserito
+    ex03.cc     dato in input un int, dire se puo' essere espresso dalla somma di due numeri primi, stampare i numeri

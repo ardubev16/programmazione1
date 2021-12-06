@@ -1,0 +1,5 @@
+Programmi:
+    ex01.cc     dati 2 double, usare procedure per scambiare valori con passaggio parametri per puntatore
+    ex02.cc     dati 2 int, fare divisione tramite funzione, ritorna quoziente e restituisce con parametro riferimento resto, NO '/'
+    ex03.cc     dati 3 int (h, m, s) convertire con procedura eccesso di sec in min, e di min in hour, riferimento o puntatore
+    ex04.cc     dati da 1 a 5 int, scrivere funzione che ritorni max

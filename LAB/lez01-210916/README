@@ -1,0 +1,4 @@
+Programmi:
+    es00.cc         esempio: main vuoto
+    es01.cc         esempio: cin, cout con carattere
+    ex01.cc         esercizio 1: area, circ cerchio, raggio da cin 
