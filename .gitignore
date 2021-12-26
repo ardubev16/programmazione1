@@ -3,3 +3,6 @@
 
 # ignores .swp files
 *.swp
+
+# ignores sample files
+*.sample
