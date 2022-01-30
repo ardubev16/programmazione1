@@ -13,7 +13,7 @@ int main() {
         cin >> numero;
     } while (numero <=1);
 
-    for (int i=1; i<=numero && num_primo1 == 0; i++)
+    for (int i=2; i<=numero && num_primo1 == 0; i++)
         if (isPrime(i) && isPrime(numero - i)) {
             num_primo1 = i;
             num_primo2 = numero - i;
